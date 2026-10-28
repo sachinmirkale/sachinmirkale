@@ -60,7 +60,7 @@
 * 🎓 **Multi-Cloud DevOps & Cloud Architect Program**
 * 🎓 **Master of Science (M.Sc.) in Sensor Systems Technology**
 * 🎓 **Bachelor of Engineering (B.E.) in Electronics & Telecommunications**
-* 🗣️ **Languages:** German (B1) | English (Full Professional Working Proficiency)
+* 🗣️ **Languages:** German (Full Professional Working Proficiency) | English (Full Professional Working Proficiency)
 
 ---
 
