@@ -34,7 +34,7 @@
 
 ### 💼 Experience Highlights
 
-* **Lead System Architect — E/E Architecture** | *Mercedes-Benz AG (via DaVinci Engineering)*
+* **Lead System Architect — E/E Architecture** | *Mercedes-Benz AG *
   * Directed architectural design, decomposition, and functional safety alignment for highly distributed vehicle computing platforms.
   * Authored scalable system blueprints using SysML, IBM DOORS Next Generation (DNG), and Enterprise Architect across international development clusters.
   * Managed interface governance, technical reviews, and sprint cadence within SAFe and Scrum setups.
